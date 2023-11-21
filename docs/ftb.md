@@ -1,8 +1,8 @@
 ## Upgrading FTB Modpacks
 
-<span style="color:red">**Remember to shut the server down and create a backup before completing the upgrade.**</span>
+<span style="color:red">Remember to shut the server down and create a backup before completing the upgrade.</span>
 
-<span style="color:yellow">Note the you can use an existing FTB installer file with the --latest parameter to avoid several steps.</span>
+**Note that you can use an existing FTB installer file with the --latest parameter to avoid several steps.**
 
 ### Change directory to the Minecraft folder inside the instance directory
     cd /home/amp/.ampdata/instances/[instance]/Minecraft
