@@ -14,8 +14,10 @@
     chmod +x serverinstall_119_11338
 
 ### Execute the installer
+
 #### Fresh download
     ./serverinstall_119_11338
+
 #### Recycled installer
     ./serverinstall_119_11330 --latest
 

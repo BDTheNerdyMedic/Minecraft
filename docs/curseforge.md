@@ -12,6 +12,7 @@
     unzip -l Server-Files-0.2.21.zip
 
 ### Extract the archive as the amp user to maintain proper ownership
+
 #### With root directory
     su -c "unzip Server-Files-0.2.21.zip" amp
 
@@ -25,8 +26,10 @@
     rm -R ./packmenu
 
 ### Use the rsync command to syncronize the files
+
 #### Dry run
     rsync -aunv ./Server-Files-0.2.21/ ./
+
 #### Complete sync
     rsync -auv ./Server-Files-0.2.21/ ./
 
