@@ -21,4 +21,6 @@
 #### Recycled installer
     ./serverinstall_119_11330 --latest
 
+<span style="color:red">Remember to update the MOTD to reflect the new version.</span>
+
 [< Back](index.md)
