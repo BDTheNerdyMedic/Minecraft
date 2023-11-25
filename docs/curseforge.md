@@ -33,4 +33,6 @@
 #### Complete sync
     rsync -auv ./Server-Files-0.2.21/ ./
 
+<span style="color:red">Remember to update the MOTD to reflect the new version.</span>
+
 [< Back](index.md)
