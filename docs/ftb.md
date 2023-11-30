@@ -21,6 +21,6 @@
 #### Recycled installer
     ./serverinstall_119_11330 --latest
 
-<span style="color:red">Remember to update the MOTD to reflect the new version.</span>
+<span style="color:red">Remember to double-check the Forge vesion and update the MOTD to reflect the modpack version.</span>
 
 [< Back](index.md)
