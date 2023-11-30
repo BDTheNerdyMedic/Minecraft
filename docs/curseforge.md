@@ -2,6 +2,9 @@
 
 <span style="color:red">Remember to shut the server down and create a backup before completing the upgrade.</span>
 
+### Elevate privileges and run commands within the root user's environment
+    sudo -i
+
 ### Change directory to the Minecraft folder inside the instance directory
     cd /home/amp/.ampdata/instances/[instance]/Minecraft
 

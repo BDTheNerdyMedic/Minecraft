@@ -4,6 +4,9 @@
 
 **Note that you can use an existing FTB installer file with the --latest parameter to avoid several steps.**
 
+### Elevate privileges and run commands within the root user's environment
+    sudo -i
+
 ### Change directory to the Minecraft folder inside the instance directory
     cd /home/amp/.ampdata/instances/[instance]/Minecraft
 
