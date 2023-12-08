@@ -1,4 +1,4 @@
-## Common Server Commands
+# Common Server Commands
 
 ## Performance monitoring
 
