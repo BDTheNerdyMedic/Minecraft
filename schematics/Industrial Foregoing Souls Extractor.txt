@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "statePosArrayList": "{blockstatemap:[{Name:\"minecraft:air\"},{Name:\"laserio:laser_node\"},{Name:\"industrialforegoing:laser_drill\",Properties:{facing:\"north\"}},{Name:\"mekanism:advanced_mechanical_pipe\",Properties:{fluid_logged:\"empty\"}},{Name:\"endertanks:ender_tank\",Properties:{facing:\"down\",powered:\"false\",variant:\"team\"}},{Name:\"industrialforegoing:mob_crusher\",Properties:{subfacing:\"west\"}},{Name:\"industrialforegoing:mob_duplicator\"},{Name:\"fluxnetworks:flux_point\",Properties:{down:\"false\",east:\"false\",north:\"false\",south:\"false\",up:\"false\",waterlogged:\"false\",west:\"true\"}},{Name:\"industrialforegoing:stasis_chamber\",Properties:{subfacing:\"north\"}},{Name:\"industrialforegoing:mob_detector\",Properties:{subfacing:\"east\"}},{Name:\"industrialforegoing:laser_drill\",Properties:{facing:\"west\"}},{Name:\"industrialforegoingsouls:soul_laser_base\"},{Name:\"industrialforegoing:laser_drill\",Properties:{facing:\"east\"}},{Name:\"rftoolsutility:timer\",Properties:{logic_facing:\"down_tosouth\"}},{Name:\"minecraft:redstone_wire\",Properties:{east:\"none\",north:\"side\",power:\"1\",south:\"side\",west:\"none\"}},{Name:\"minecraft:redstone_wire\",Properties:{east:\"side\",north:\"side\",power:\"0\",south:\"none\",west:\"none\"}},{Name:\"minecraft:redstone_wire\",Properties:{east:\"side\",north:\"none\",power:\"0\",south:\"none\",west:\"side\"}},{Name:\"minecraft:redstone_wall_torch\",Properties:{facing:\"west\",lit:\"true\"}},{Name:\"minecraft:cobblestone\"},{Name:\"industrialforegoing:laser_drill\",Properties:{facing:\"south\"}}],endpos:{X:0,Y:6,Z:0},startpos:{X:-4,Y:0,Z:-4},statelist:[I;0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,3,3,3,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,6,1,7,1,0,8,1,0,0,0,0,9,1,0,0,0,0,0,1,0,0,0,1,10,0,11,0,12,0,0,0,0,0,13,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,16,17,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,19,0,0,0,0,0,0,0]}",
+  "requiredItems": {
+    "Industrial Foregoing: Misc:mob_detector": 1,
+    "minecraft:redstone_torch": 1,
+    "Industrial Foregoing: Resource Production:laser_drill": 4,
+    "laserio:laser_node": 8,
+    "rftoolsutility:timer": 1,
+    "Industrial Foregoing: Misc:stasis_chamber": 1,
+    "industrialforegoingsouls:soul_laser_base": 1,
+    "mekanism:advanced_mechanical_pipe": 3,
+    "minecraft:cobblestone": 1,
+    "Industrial Foregoing: Agriculture \u0026 Husbandry:mob_duplicator": 1,
+    "Industrial Foregoing: Agriculture \u0026 Husbandry:mob_crusher": 1,
+    "fluxnetworks:flux_point": 1,
+    "endertanks:ender_tank": 1,
+    "minecraft:redstone": 3
+  }
+}
