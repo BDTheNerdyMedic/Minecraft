@@ -23,6 +23,7 @@
     su -c "unzip -d ./Server-Files-0.2.21 Server-Files-0.2.21.zip" amp
 
 ### Purge common directories to avoid conflicts
+    rm -R ./config
     rm -R ./defaultconfigs
     rm -R ./kubejs
     rm -R ./mods
